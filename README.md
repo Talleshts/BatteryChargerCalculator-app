@@ -12,27 +12,48 @@ Battery Charge Time Calculator é um aplicativo Android que calcula o tempo nece
 
 ## Estrutura do Projeto
 
-BatteryChargerV3/ 
+BatteryChargerV3/
+
 ├── app/ 
+
 │ ├── src/ 
+
 │ │ ├── main/ 
+
 │ │ │ ├── java/com/example/batterychargerv3/ 
+
 │ │ │ │ ├── MainActivity.kt 
+
 │ │ │ │ ├── HistoryActivity.kt 
+
 │ │ │ │ ├── HelpActivity.kt 
+
 │ │ │ ├── res/ 
+
 │ │ │ │ ├── layout/ 
+
 │ │ │ │ │ ├── activity_main.xml 
+
 │ │ │ │ │ ├── activity_history.xml 
+
 │ │ │ │ │ ├── activity_help.xml 
+
 │ │ │ │ ├── values/ 
+
 │ │ │ │ │ ├── strings.xml 
+
 │ │ │ │ │ ├── colors.xml 
+
 │ │ │ │ │ ├── themes.xml 
+
 │ │ │ │ ├── drawable/ 
+
 │ │ │ │ │ ├── ic_sun.xml 
+
 │ │ │ │ │ ├── ic_moon.xml 
-│ │ │ │ │ ├── ic_share.xml 
+
+│ │ │ │ │ ├── ic_share.xml
+
 │ │ │ │ │ ├── edit_text_background.xml
 
 
